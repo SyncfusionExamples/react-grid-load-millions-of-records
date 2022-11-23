@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\React-Grid_url_1L_loadtime\React-EJ2-Grid\bin\Release\netcoreapp2.2\publish\</_PublishTargetUrl>
+    <History>True|2022-09-16T04:30:01.8291739Z;True|2022-06-06T10:33:52.4542520+05:30;</History>
+  </PropertyGroup>
+</Project>
