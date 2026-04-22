@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@syncfusion/ej2-react-buttons": "20.3.50",
-    "@syncfusion/ej2-react-grids": "20.3.50",
+    "@syncfusion/ej2-react-buttons": "*",
+    "@syncfusion/ej2-react-grids": "*",
     "bootstrap": "^4.6.2",
     "jquery": "^3.7.1",
     "react": "^16.14.0",
